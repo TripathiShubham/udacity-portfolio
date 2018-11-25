@@ -1,0 +1,28 @@
+.flex {
+    flex-direction: row;
+}
+
+.user-img {
+    width: 200px;
+    height: 200px;
+}
+
+.user-section {
+    margin-top: 50px;
+}
+
+.user-name {
+    font-size: x-large;
+}
+
+.user-role, .user-company {
+    font-size: large;
+}
+
+.down-arrow {
+    margin: 60px 0px 20px 0px;
+}
+
+.img-desc {
+    font-size: large;
+}

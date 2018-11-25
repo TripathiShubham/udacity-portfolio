@@ -1,0 +1,38 @@
+.container {
+    max-width: 860px;
+    margin: auto;
+}
+
+.user-img {
+    width: 250px;
+    height: 250px;
+}
+
+.user-section {
+    margin-top: 70px;
+}
+
+.user-name {
+    font-size: xx-large;
+}
+
+.user-role, .user-company {
+    font-size: x-large;
+}
+
+.down-arrow {
+    margin-top: 100px;
+}
+
+.heading > h2 {
+    margin: 0px;
+    font-size: xx-large;
+}
+
+.block-heading > h4 {
+    font-size: large;
+}
+
+.img-desc {
+    font-size: x-large;
+}
